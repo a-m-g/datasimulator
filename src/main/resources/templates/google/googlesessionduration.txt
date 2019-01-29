@@ -1,0 +1,417 @@
+{
+    "reports" : [
+        {
+            "columnHeader" : {
+                "dimensions" : [
+                    "ga:date"
+                ],
+                "metricHeader" : {
+                    "metricHeaderEntries" : [
+                        {
+                            "name" : "ga:sessionDuration",
+                            "type" : "TIME"
+                        }
+                    ]
+                }
+            },
+            "data" : {
+                "rows" : [
+                    {
+                        "dimensions" : [
+                            "20180703"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "130508.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180704"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "118333.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180705"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "80023.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180706"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "66716.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180707"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "86122.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180708"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "90039.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180709"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "123532.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180710"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "112121.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180711"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "142008.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180712"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "63975.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180713"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "64779.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180714"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "52240.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180715"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "32348.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180716"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "63405.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180717"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "81015.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180718"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "68816.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180719"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "169963.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180720"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "233931.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180721"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "140021.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180722"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "164147.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180723"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "140533.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180724"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "252833.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180725"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "246166.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180726"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "146359.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180727"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "116644.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180728"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "87464.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180729"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "70822.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180730"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "69239.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180731"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "53715.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180801"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "94307.0"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dimensions" : [
+                            "20180802"
+                        ],
+                        "metrics" : [
+                            {
+                                "values" : [
+                                    "95553.0"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "totals" : [
+                    {
+                        "values" : [
+                            "3457677.0"
+                        ]
+                    }
+                ],
+                "rowCount" : 31,
+                "minimums" : [
+                    {
+                        "values" : [
+                            "32348.0"
+                        ]
+                    }
+                ],
+                "maximums" : [
+                    {
+                        "values" : [
+                            "252833.0"
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
