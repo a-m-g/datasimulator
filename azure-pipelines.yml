@@ -12,6 +12,13 @@ pool:
 variables:
   imageName: 'your-container-image-name:$(build.buildId)'
 
-steps:
+steps:     
+# maven build and deploy
+  - task: Maven@2
+    displayName: "maven package"
+    inputs:
+      mavenPomFile: "pom.xml"
+      goals: "clean package"
+
 - script: docker build -f Dockerfile -t $(imageName) .
   displayName: 'docker build'
