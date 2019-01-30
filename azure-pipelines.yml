@@ -10,7 +10,7 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 variables:
-  imageName: 'your-container-image-name:$(build.buildId)'
+  imageName: '$(Build.Repository.Name)'
 
 steps:     
 # maven build and deploy
